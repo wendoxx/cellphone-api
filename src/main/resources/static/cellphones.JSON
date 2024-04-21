@@ -1,0 +1,30 @@
+[
+  {
+    "name": "iPhone 13",
+    "release": 2021,
+    "memory": 128,
+    "processor": "A15 Bionic",
+    "screen": 6.1
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "release": 2021,
+    "memory": 256,
+    "processor": "Exynos 2100",
+    "screen": 6.2
+  },
+  {
+    "name": "Google Pixel 6",
+    "release": 2021,
+    "memory": 128,
+    "processor": "Google Tensor",
+    "screen": 6.4
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "release": 2021,
+    "memory": 256,
+    "processor": "Snapdragon 888",
+    "screen": 6.7
+  }
+]
